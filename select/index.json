@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "ウェイウェイ大学生",
+  "base_artist": "Yabai T-Shirts Yasan",
+  "createdAt": "2025-12-24T13:35:30.877814Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ウェイウェイ大学生",
+      "artist": "ヤバイTシャツ屋さん",
+      "has_synced": true,
+      "path": "select/01_ウェイウェイ大学生_ヤバイTシャツ屋さん.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ウェイウェイ大学生",
+      "artist": "Yabai T-Shirts Yasan",
+      "has_synced": true,
+      "path": "select/02_ウェイウェイ大学生_Yabai_T-Shirts_Yasan.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ウェイウェイ大学生",
+      "artist": "ヤバイTシャツ屋さん",
+      "has_synced": false,
+      "path": "select/pl_01_ウェイウェイ大学生_ヤバイTシャツ屋さん.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ウェイウェイ大学生",
+      "artist": "ヤバイTシャツ屋さん",
+      "has_synced": false,
+      "path": "select/pl_02_ウェイウェイ大学生_ヤバイTシャツ屋さん.txt"
+    }
+  ]
+}
